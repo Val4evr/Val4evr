@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Val4evr/Val4evr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is
+```
+ _    __      __          _          ____             __   __          
+| |  / /___ _/ /__  _____(_)_  __   / __ \_________  / /__/ /___ _   __
+| | / / __ `/ / _ \/ ___/ / / / /  / /_/ / ___/ __ \/ //_/ / __ \ | / /
+| |/ / /_/ / /  __/ /  / / /_/ /  / ____/ /  / /_/ / ,< / / /_/ / |/ / 
+|___/\__,_/_/\___/_/  /_/\__, /  /_/   /_/   \____/_/|_/_/\____/|___/  
+                        /____/
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
